@@ -1,0 +1,1 @@
+.\jdk1.8.0_351\bin\java.exe -d64 -XX:+OptimizeStringConcat -XX:+UseLargePages -XX:+UseG1GC -XX:+UseStringDeduplication -Xms64M -Xmx8G -jar cupcarbon52.jar
